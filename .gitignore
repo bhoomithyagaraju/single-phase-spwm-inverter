@@ -1,0 +1,14 @@
+# Arduino build output
+build/
+*.elf
+*.hex
+*.bin
+*.eep
+*.lst
+*.map
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
